@@ -1,10 +1,13 @@
-# todo
+# to do list
 
 Uma Aplicação Flutter de Lista de Tarefas
 onde Primeiramente voce cria um titulo e depois inseres os itens dessa tarefa
 Ex: 
 Tarefa: Mercado
 Itens: Laranja, Ovo, Leite, Etc....
+
+Tarefa: Farmácia
+Itens: Remédios 
 
 ## Getting Started
 
